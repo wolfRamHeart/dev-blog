@@ -1,4 +1,4 @@
-baseURL = 'https://wolframheart.github.io/dev-blog/'
+baseURL = 'https://wolframheart.github.io/'
 languageCode = 'en-us'
 title = 'In Development'
 
