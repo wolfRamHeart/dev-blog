@@ -1,0 +1,16 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'In Development'
+
+paginate = 4
+
+[params]
+  description = "A fast blog about my large language model journey"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
