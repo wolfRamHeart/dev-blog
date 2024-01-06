@@ -1,8 +1,9 @@
-baseURL = '/'
+baseURL = 'https://wolframheart.github.io/dev-blog/'
 languageCode = 'en-us'
 title = 'In Development'
 
-paginate = 4
+paginate = 100
+
 
 [params]
   description = "A fast blog about my large language model journey"
