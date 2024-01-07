@@ -7,5 +7,5 @@ image = ""
 imageBig = ""
 categories = ["general"]
 authors = ["Marlon"]
-avatar = "{{.Site.BaseURL}}/images/avatar.webp"
+avatar = "/images/avatar.webp"
 +++
