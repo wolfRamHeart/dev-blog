@@ -7,5 +7,5 @@ image = ""
 imageBig = ""
 categories = ["general"]
 authors = ["Marlon"]
-avatar = "/images/avatar.webp"
+avatar = "/dev-blog/images/avatar.webp"
 +++

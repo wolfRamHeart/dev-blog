@@ -3,11 +3,11 @@ title = 'My First Post'
 date = 2024-01-06T13:07:00-05:00
 draft = false
 description = "This is a description"
-image = "/images/1s.webp"
-imageBig = "/images/1b.webp"
+image = "/dev-blog/images/1s.webp"
+imageBig = "/dev-blog/images/1b.webp"
 categories = ["general", "llm", "ai"]
 authors = ["Marlon"]
-avatar = "/images/avatar.webp"
+avatar = "/dev-blog/images/avatar.webp"
 +++
 
 ## Introduction
