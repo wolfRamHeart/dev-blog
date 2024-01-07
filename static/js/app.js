@@ -46,7 +46,7 @@ function executeSearch(searchQuery) {
 
     show(document.querySelector('.search-loading'));
 
-    fetch('/index.json').then(function (response) {
+    fetch('/dev-blog/index.json').then(function (response) {
         if (response.status !== 200) {
             console.log('Looks like there was a problem. Status Code: ' + response.status);
             return;
