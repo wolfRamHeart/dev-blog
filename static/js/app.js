@@ -89,7 +89,7 @@ function populateResults(results) {
         var tags = "";
         if (value.item.tags) {
             value.item.tags.forEach(function (element) {
-                tags = tags + "<a href='/tags/" + element + "'>" + "#" + element + "</a> ";
+                tags = tags + "<a href='/dev-blog/tags/" + element + "'>" + "#" + element + "</a> ";
             });
         }
 
