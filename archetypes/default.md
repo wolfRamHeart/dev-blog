@@ -7,5 +7,5 @@ image = ""
 imageBig = ""
 categories = ["general"]
 authors = ["Marlon"]
-avatar = "/images/avatar.webp"
+avatar = "https://wolframheart.github.io/dev-blog/static/images/avatar.webp"
 +++
